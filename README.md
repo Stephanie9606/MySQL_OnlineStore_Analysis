@@ -1,8 +1,4 @@
 # MySQL_OnlineStore_Analysis
-self-create db. 
+Self-create db  
 Basic Analysis: Select, Insert, Delete, Update, Create View...  
-Triggers:  
-enforcing referential integrity  
-enforcing attribute domain constraints  
-creating database log  
-gathering statistics  
+Triggers: for enforcing referential integrity, enforcing attribute domain constraints, creating database log, gathering statistics, create summary table...
